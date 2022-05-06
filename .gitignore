@@ -1,1 +1,3 @@
-cache.py
+cache.txt
+/.idea
+**/__pycache__
