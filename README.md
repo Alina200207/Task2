@@ -12,5 +12,5 @@
 Запросы от клиента могут выглядеть следующим образом: <br>
 `nslookup type=A vk.com 127.0.0.1`<br>
 `nslookup type=NS ya.ru 127.0.0.1`<br>
-`nslookup urfu.ru 127.0.0.1`<br>
-![Example](https://github.com/Alina200207/Task2/blob/master/animation%20(2).gif)
+`nslookup urfu.ru 127.0.0.1`<br><br>
+![Example](https://github.com/Alina200207/Task2/blob/master/animation%20(3).gif)
