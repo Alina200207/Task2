@@ -13,3 +13,4 @@
 `nslookup type=A vk.com 127.0.0.1`<br>
 `nslookup type=NS ya.ru 127.0.0.1`<br>
 `nslookup urfu.ru 127.0.0.1`
+![Example](https://github.com/Alina200207/Task2/blob/master/video5451886702194858083.mp4)
