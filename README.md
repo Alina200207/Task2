@@ -8,8 +8,8 @@
 
 ## Применение
 Запустить сервер можно вызовом из консоли:<br>
-`python dns.py`
+`python dns.py`<br>
 Запросы от клиента могут выглядеть следующим образом: <br>
-`nslookup type=A vk.com 127.0.0.1`
-`nslookup type=NS ya.ru 127.0.0.1`
+`nslookup type=A vk.com 127.0.0.1`<br>
+`nslookup type=NS ya.ru 127.0.0.1`<br>
 `nslookup urfu.ru 127.0.0.1`
